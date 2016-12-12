@@ -20,7 +20,9 @@ You will need the following things properly installed on your computer.
 * `npm install`
 * `bower install`
 
-Note :  /* web-sockets setup in ember */
+## Note :  
+
+       /* web-sockets setup in ember */
 
        http://www.programwitherik.com/getting-started-with-web-sockets-and-ember/
 
