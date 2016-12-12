@@ -1,0 +1,17 @@
+<div class="jumbo">
+  <div class="right tomster"></div>
+  {{#rental-listing as |section|}}
+  {{#if section.isHeader}}
+    <h2>About Super Rentals</h2>
+  {{else if section.isBody}}
+   <p>
+    The Super Rentals website is a delightful project created to explore Ember.
+    By building a property rental site, we can simultaneously imagine traveling
+    AND building Ember applications.
+  </p>
+  {{else if section.isFooter}}
+   <h2>About Super Rentals</h2>
+  {{/if}}
+{{/rental-listing}}
+  
+</div>
