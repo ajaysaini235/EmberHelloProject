@@ -20,6 +20,21 @@ You will need the following things properly installed on your computer.
 * `npm install`
 * `bower install`
 
+Note :  /* web-sockets setup in ember */
+
+       http://www.programwitherik.com/getting-started-with-web-sockets-and-ember/
+
+
+       /* sass setup in ember */
+
+       http://stackoverflow.com/questions/28952836/ember-cli-sass-settings
+
+
+       /* node server setup in ember */
+
+       http://www.programwitherik.com/setup-your-ember-project-with-node/
+
+
 ## Running / Development
 
 * `ember server`
