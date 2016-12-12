@@ -1,1 +1,20 @@
-https://github.com/ajaysaini235/EmberProject-NodejsServer-SCSS-Socket.git
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+
+# dependencies
+/node_modules
+/bower_components
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+npm-debug.log
+testem.log
+.DS_Store
+coverage.json
+npm-shrinkwrap.json
